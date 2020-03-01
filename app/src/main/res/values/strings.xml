@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">English To World Dictionary</string>
+    <string name="action_settings">Settings</string>
+    <string name="result_activity">Translation</string>
+    <string name="Globe">Globe</string>
+    <string name="help">How To Use App</string>
+    <string name="instructions">This app utilizes a REST-API that consumes a word that you type in
+    English, then you can choose from 4 different Language codes as your target language. The app
+    will then give you the translated word.</string>
+    <string name="fr">fr = French</string>
+    <string name="es">es = Spanish</string>
+    <string name="de">de = German</string>
+    <string name="it">it = Italian</string>
+</resources>
